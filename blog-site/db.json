@@ -1,0 +1,49 @@
+{
+  "users": [
+    {
+      "id": "27bb",
+      "firstName": "Rafsan",
+      "lastName": "Khan",
+      "email": "b4@gmail.com",
+      "password": "zxc"
+    }
+  ],
+  "blogs": [
+    {
+      "id": "60d9",
+      "title": "Programming Roadmap",
+      "description": "<p>Start your programming journey today</p>",
+      "date": "2024-10-21T07:38:08.586Z",
+      "tags": [
+        "Javascript",
+        "C++",
+        "Java",
+        "Python"
+      ],
+      "userId": "27bb"
+    },
+    {
+      "id": "0050",
+      "title": "Political Movement",
+      "description": "<p>Participate in the movement against fascist regime</p>",
+      "date": "2024-10-21T18:00:00.000Z",
+      "tags": [
+        "Politics",
+        "Movement"
+      ],
+      "userId": "27bb"
+    },
+    {
+      "id": "f059",
+      "title": "Hill Tracking",
+      "description": "<p>I once went to Rangamati to watch a beautiful waterfall. It was a dreadful experience.</p>",
+      "date": "2024-10-22T18:00:00.000Z",
+      "tags": [
+        "Adventure",
+        "Nature",
+        "Waterfall"
+      ],
+      "userId": "27bb"
+    }
+  ]
+}
